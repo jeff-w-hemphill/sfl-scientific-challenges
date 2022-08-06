@@ -1,0 +1,6 @@
+[submodule "sfl-ml-api"]
+	path = sfl-ml-api
+	url = https://github.com/jeff-w-hemphill/sfl-ml-api
+[submodule "sfl-etl"]
+	path = sfl-etl
+	url = https://github.com/jeff-w-hemphill/sfl-etl
